@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+# Ignore .idea folder created by PyCharm
+.idea
